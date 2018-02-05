@@ -1,0 +1,30 @@
+.cd-list-item {
+  width: 250px;
+  height: 350px;
+  border: 1px solid black;
+  padding: 2em;
+  margin: 1em;
+  float: left;
+}
+
+.img-list-item {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  border-radius: 1em;
+}
+
+.center {
+  text-align: center;
+  margin: .5em auto;
+  display: block;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.tracks {
+  margin: 1em auto;
+}
